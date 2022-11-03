@@ -1,0 +1,14 @@
+h1 {
+    color: rgba(0, 30, 255, 0.542);
+    background-color: rgba(243, 245, 220, 0.64);
+}
+p {
+    color: red;
+    }
+    q {
+        background-color: aqua;
+        color: black;
+    }
+    ul {
+        color: rgb(106, 8, 198);
+    }
