@@ -1,6 +1,10 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
 h1 {
     color: rgba(0, 30, 255, 0.542);
     background-color: rgba(243, 245, 220, 0.64);
+    font-weight: 700;
 }
 p {
     color: red;
